@@ -101,8 +101,9 @@ public static class StoredData_DataPoints
 
     //redherrings, Targets
     /// <summary>
-    /// any thing is this part is purely fictional and i dissagree fully with most if not all of these statements any connection to real life is purely coincedental
-    /// though i still believe in free speech, i very much disagree with hate speech.
+    /// any thing in this part is purely fictional and i dissagree fully with most if not all of these statements any connection to real life is purely coincedental
+    /// though i still believe in free speech, i very much disagree with hate speech. this part is specifically for people who could be 
+    /// targets or redherrings.
     /// </summary>
     ///18
     public static string[] Posts = new string[] {           "I'm going to kill my boss, he is the worst", "Can some one lend me a gun, im going to kill my co-worker", "Nazi's werent that bad",
@@ -110,7 +111,7 @@ public static class StoredData_DataPoints
                                                             "They Deserved it", "I'm going to start growing weed, cant deal with so little money", "Wheres the next def wolves meet up", "I want too join the Ceers",
                                                             "Guys how do i build a bomb", "Cant stand this job anymore", "im done with people", "What is love, baby dont hurt me, Dont hurt me now more",
                                                             "Follow the white rabbit", "death is only the beginning.", "Soon we will take back this city", "Augs are so fucked up", "YTF would you want to become a aug, like its perverting humanity",
-                                                            "this is a love crusade", "", "", "", };
+                                                            "this is a love crusade", "I wonder if this she is tracked", "", "", };
 
 
 
